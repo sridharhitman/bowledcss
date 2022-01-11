@@ -1,3 +1,3 @@
 This is a simple tutorial on how to use bowledcss
 
-[First Download The file](bowledcss/bowledcss.css)
+<a href="bowledcss/bowledcss.css">Download Th file first</a>
