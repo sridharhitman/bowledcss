@@ -1,0 +1,65 @@
+/* plain html tags */
+button{
+    border:none;
+    cursor:pointer;
+}
+/* background colors */
+.bg-blue{
+    background-color:blue;
+}
+.hover-bg-blue-light:hover{
+    background-color:blue;
+}
+.bg-blue{
+    background-color:blue;
+}
+/* margins */
+.my-2{
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+.mx-2{
+    margin-right: 1.5rem;
+    margin-left: 1.5rem;
+}
+/* paddings */
+.py-2{
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+}
+.px-2{
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+}
+.px-3{
+    padding-left: 3rem;
+    padding-right: 3rem;
+}
+.px-4{
+    padding-left: 4rem;
+    padding-right: 4rem;
+}
+.px-2{
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+}
+
+/* cursor pointers */
+.cursor-pointer{
+    cursor:pointer;
+}
+
+.cursor-text{
+    cursor:text;
+}
+.cursor-copy{
+    cursor:copy;
+}
+.cursor-text{
+    cursor:text;
+}
+
+/* text colors */
+.text-white{
+    color:white;
+}
